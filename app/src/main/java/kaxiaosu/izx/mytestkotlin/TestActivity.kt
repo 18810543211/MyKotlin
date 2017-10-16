@@ -17,4 +17,8 @@ class TestActivity : AppCompatActivity() {
         var bundle = intent.getBundleExtra("mBundle")
         mTvTestName.text = "嗨 " + bundle.getString("userName") + " 你好！"
     }
+
+    private fun aaa() {
+
+    }
 }
