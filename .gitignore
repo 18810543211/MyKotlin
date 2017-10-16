@@ -1,0 +1,10 @@
+
+/build/
+/local.properties
+/gradlew
+/app/build/
+/MyTestKotlin.iml
+/app/app.iml
+/gradlew.bat
+/.gradle/
+/.idea/
